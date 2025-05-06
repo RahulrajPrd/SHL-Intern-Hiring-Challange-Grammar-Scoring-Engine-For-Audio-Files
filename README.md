@@ -60,7 +60,7 @@ Here’s how the model performed:
 - **Validation Pearson Correlation**: [Insert val_pearson, e.g., 0.6789]
 - **Kaggle Score**: [Pending submission]
 
-Visualizations in `.ipynb` file include:
+Visualizations in `SHL_Hiring_Challange_Rahul_Raj_Parida.ipynb` file include:
 - **Scatter Plot**: Predicted vs. actual scores on validation set.
 - **Histogram**: Distribution of predicted and actual scores.
 
